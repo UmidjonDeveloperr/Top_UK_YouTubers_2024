@@ -1,3 +1,6 @@
 title: Umidjon
 logo: Assets/Images/Screenshot 2024-08-26 152419.png
 show_downloads: True
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
