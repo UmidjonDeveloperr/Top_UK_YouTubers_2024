@@ -1,4 +1,4 @@
-#YouTube Channel Analysis for Advertisers
+YouTube Channel Analysis for Advertisers
 Project Overview
 
 This project provides insights into which YouTube channels are most beneficial for advertisers looking to promote their products. By analyzing the top UK YouTubers, this project helps investors make data-driven decisions on where to place their advertisements for maximum impact.
